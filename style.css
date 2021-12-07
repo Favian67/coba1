@@ -1,0 +1,18 @@
+body {
+  min-height: 2000px;
+}
+.jumbotron {
+  padding-top: 2rem;
+  background-color: #ccf2f4;
+}
+#about {
+  background-color: #f3f4f5;
+}
+
+#SocialMedia {
+  background-color: #99feff;
+}
+
+#contact {
+  background-color: #f3f4f5;
+}
